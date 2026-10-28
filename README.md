@@ -83,6 +83,3 @@ User Question → Retrieval → Context + Question
                               Groq LLM → Answer
 ```
 
-## License
-
-Add a license if you intend to distribute the project publicly.
