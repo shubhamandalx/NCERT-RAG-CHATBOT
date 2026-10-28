@@ -22,7 +22,7 @@ Python · uv · LangChain · ChromaDB · Groq API · PyPDF
 
 ```bash
 git clone <your-repository-url>
-cd ncert-rag-chatbot
+cd NCERT-RAG-CHATBOT
 ```
 
 ### 2. Install dependencies
