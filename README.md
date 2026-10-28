@@ -54,7 +54,7 @@ data/pdfs/
 ### 5. Run the chatbot
 
 ```bash
-uv run ncert-rag
+uv run rag-chatbot
 ```
 
 The application processes the documents, stores embeddings in ChromaDB, and uses the RAG pipeline to answer questions.
@@ -64,7 +64,7 @@ The application processes the documents, stores embeddings in ChromaDB, and uses
 If you add or modify PDFs and need to recreate the index, run:
 
 ```bash
-uv run ncert-rag --rebuild
+uv run rag-chatbot --rebuild
 ```
 
 ## How It Works
